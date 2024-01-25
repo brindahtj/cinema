@@ -1,2 +1,2 @@
 <?php
-echo '<h1>Hello</h1>';
+require __DIR__ . '/../public/index.php';
