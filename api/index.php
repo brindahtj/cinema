@@ -24,7 +24,7 @@
             <input type="submit" value="Calculer">
         </form>
 
-        <?php require './functions.php';
+        <?php require '../functions.php';
 
         if (!empty($_GET)) :
 
